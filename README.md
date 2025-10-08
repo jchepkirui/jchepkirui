@@ -1,16 +1,20 @@
-## Hi there 👋
+# Joy Chepkirui — Data Engineer in Progress 👩‍💻
 
-<!--
-**jchepkirui/jchepkirui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+Here you’ll find my projects on data processing, web development, and system design.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+**Programming:** Python, C#, JavaScript, SQL  
+**Frameworks:** Django (MVT), ASP.NET Core, REST APIs  
+**Databases:** MS SQL, MySQL, MongoDB, Cassandra, InfluxDB  
+**Other Tools:** Power BI, Git, Docker, Azure Data Studio  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- 📡 [**Packet Tracer Simple Network**](https://github.com/joychepkirui6292/packet-tracer-simple-network) – A basic Cisco network design using routers, switches, DHCP, and file servers   
+
+### 📈 Goals
+- Advance in cloud data engineering  
+- Master big data tools (Spark, Kafka, Hadoop)  
+- Earn industry certifications (Azure Data Engineer, Security+)  
+
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/joy-chepkirui-92a8ba35/)
