@@ -10,7 +10,7 @@ Here you’ll find my projects on data processing, web development, and system d
 **Other Tools:** Power BI, Git, Docker, Azure Data Studio  
 
 ### 📂 Featured Projects
-- 📡 [**Packet Tracer Simple Network**](https://github.com/joychepkirui6292/packet-tracer-simple-network) – A basic Cisco network design using routers, switches, DHCP, and file servers   
+- 📡 [**Packet Tracer Simple Network**](https://github.com/jchepkirui/packet-tracer-simple-network) – A basic Cisco network design using routers, switches, DHCP, and file servers   
 
 ### 📈 Goals
 - Advance in cloud data engineering  
